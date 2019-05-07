@@ -3,7 +3,7 @@ Repository Udacity Data analyst Nanodegree project :Communicate Data Findings
 
 ## Analysis of Ford GoBike System in 2017-2018-2019
 ### Sandhya Dhanikonda
-** May-2019 **
+*May-2019*
 
 #### Dataset
 The data consist of approximately 2,75M bike rides from year , 2017, 2018 and first 3 months of 2019. The attributes include the trip start/end time, start/end station, duration in seconds as well as additional information such as user type, gender, and birth date. The data that was not considered for analysis was that of the location details of the start stations and end stations. The data I took up for analysis can be found in the website:[here](https://s3.amazonaws.com/fordgobike-data/index.html)
